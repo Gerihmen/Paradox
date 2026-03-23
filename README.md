@@ -20,7 +20,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Gerihmen/Paradox/refs
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/68400c9f-c060-4cd6-8d91-a7d594e18ef9" />
 
-# Room 100 section: If you are don`t want to press skip cutscene, you can skip it there(skips room 0(start) and train(rooms 109-110(99-100) cutscenes). Finish room 100(110) puzzle with computers and tp to your ending
+# Room 100 section: If you don`t want to press skip cutscene, you can skip it there(skips room 0(start) and train(rooms 109-110(99-100) cutscenes). Finish room 100(110) puzzle with computers and tp to your ending
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f4309a2e-87e5-4b64-8910-9d1b02e47784" />
 
