@@ -2,7 +2,7 @@
 
 # Get Script:
 ```Lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Gerihmen/Paradox/refs/heads/main/Paradox-Helper'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Gerihmen/Paradox/refs/heads/main/Paradox-Helper.lua'))()
 ```
 # Teleport section: Entity notifications, Next/Prevous door buttons + keybinds
 
