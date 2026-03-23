@@ -4,7 +4,7 @@
 ```Lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Gerihmen/Paradox/refs/heads/main/Paradox-Helper.lua'))()
 ```
-#Game Link: https://www.roblox.com/games/95959136210771/PARADOX
+# Game Link: https://www.roblox.com/games/95959136210771/PARADOX
 
 # Teleport section: Entity notifications, Next/Prevous door buttons + keybinds
 
