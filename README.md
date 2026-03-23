@@ -4,6 +4,8 @@
 ```Lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Gerihmen/Paradox/refs/heads/main/Paradox-Helper.lua'))()
 ```
+#Game Link: https://www.roblox.com/games/95959136210771/PARADOX
+
 # Teleport section: Entity notifications, Next/Prevous door buttons + keybinds
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f584f1dd-761f-4061-9548-ea6fdb6f9fac" />
@@ -28,7 +30,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Gerihmen/Paradox/refs
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/8a4c8e2d-869a-487a-9298-4347ee2d4901" />
 
-# Exploits section: No Shok from lamps, Anti Snare/A90+A90B/Glare/Shade/Lasers (P.S. Snare/A90+A90B available in modifiers)
+# Exploits section: No Shok from lamps, Anti Snare/A90+A90B/Glare/Shade/Lasers (P.S. Snare/A90+A90B available in game modifiers)
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e7b864c7-8006-4bcb-bd3c-601faee1d891" />
 
